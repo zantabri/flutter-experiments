@@ -1,0 +1,36 @@
+name: recipe_list
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Playfair
+      fonts:
+        - asset: assets/fonts/Playfair/PlayfairDisplay-Regular.ttf
+    - family: PTSans
+      fonts: 
+        - asset: assets/fonts/PTSans/PTSans-Regular.ttf
+  assets:
+    - assets/images/chicken-burger.jpg
+    - assets/images/anna-pelzer.jpg
+    - assets/images/dan-counsell.jpg
+    - assets/images/Dredge-Chicken-in-Glaze.jpg
+    - assets/images/eaters.jpg
+    - assets/images/img-20160516.jpg
+    - assets/images/TOFU_NOODLES.jpg
+

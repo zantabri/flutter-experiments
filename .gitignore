@@ -1,19 +1,19 @@
 # Miscellaneous
-bottom_reveal/*.class
-bottom_reveal/*.log
-bottom_reveal/*.pyc
-bottom_reveal/*.swp
-bottom_reveal/.DS_Store
-bottom_reveal/.atom/
-bottom_reveal/.buildlog/
-bottom_reveal/.history
-bottom_reveal/.svn/
+**/*.class
+**/*.log
+**/*.pyc
+**/*.swp
+**/.DS_Store
+**/.atom/
+**/.buildlog/
+**/.history
+**/.svn/
 
 # IntelliJ related
-bottom_reveal/*.iml
-bottom_reveal/*.ipr
-bottom_reveal/*.iws
-bottom_reveal/.idea/
+**/*.iml
+**/*.ipr
+**/*.iws
+**/.idea/
 
 # The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
@@ -22,12 +22,12 @@ bottom_reveal/.idea/
 
 # Flutter/Dart/Pub related
 **/doc/api/
-bottom_reveal/.dart_tool/
-bottom_reveal/.flutter-plugins
-bottom_reveal/.packages
-bottom_reveal/.pub-cache/
-bottom_reveal/.pub/
-bottom_reveal/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.packages
+**/.pub-cache/
+**/.pub/
+**/build/
 
 # Android related
 **/android/**/gradle-wrapper.jar
